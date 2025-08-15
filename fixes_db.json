@@ -2,48 +2,48 @@
   "games": [
     {
       "appid": "1222670",
-      "title": "The Sims 4 — Win11 Fix",
+      "title": "The Sims 4",
       "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/1222670.jpg",
       "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/sims4_win11_fix.zip",
-      "notes": "Konfiguracje/ustawienia pod Windows 11 (bez DRM).",
+      "notes": "Bypass",
       "clean": [],
-      "tags": ["Win11","Config"]
+      "tags": ["Win"]
     },
     {
       "appid": "271590",
-      "title": "GTA V — Win11 Stability Fix",
+      "title": "GTA V",
       "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/271590.jpg",
       "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/gtav_win11_stability.zip",
-      "notes": "Ustawienia stabilności/grafiki; legalne poprawki.",
+      "notes": "Bypass",
       "clean": [],
-      "tags": ["Win11","Stability"]
+      "tags": ["Win"]
     },
     {
       "appid": "1774580",
-      "title": "STAR WARS Jedi: Survivor — Win11 Tweaks",
+      "title": "STAR WARS Jedi Survivor ",
       "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/1774580.jpg",
       "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/jedi_survivor_win11_tweaks.zip",
-      "notes": "Tweaki konfiguracyjne/parametry uruchamiania.",
+      "notes": "Bypass",
       "clean": [],
-      "tags": ["Win11","Tweaks"]
+      "tags": ["Win"]
     },
     {
       "appid": "1174180",
-      "title": "Red Dead Redemption 2 — Performance Preset",
+      "title": "Red Dead Redemption 2 ",
       "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/1174180.jpg",
       "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/rdr2_perf_preset.zip",
-      "notes": "Profile graficzne i configi dla stabilnego FPS.",
+      "notes": "Bypass",
       "clean": [],
-      "tags": ["Performance","Config"]
+      "tags": ["Win"]
     },
     {
       "appid": "12210",
-      "title": "GTA IV: The Complete Edition — Win11 Config",
+      "title": "GTA IV: The Complete Edition",
       "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/12210.jpg",
       "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/gtaiv_win11_config.zip",
-      "notes": "Konfiguracje kompatybilności/uruchamiania.",
+      "notes": "Bypass",
       "clean": [],
-      "tags": ["Win11","Compatibility"]
+      "tags": ["Win"]
     }
   ]
 }
