@@ -1,0 +1,49 @@
+{
+  "games": [
+    {
+      "appid": "1222670",
+      "title": "The Sims 4 — Win11 Fix",
+      "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/1222670.jpg",
+      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/sims4_win11_fix.zip",
+      "notes": "Konfiguracje/ustawienia pod Windows 11 (bez DRM).",
+      "clean": [],
+      "tags": ["Win11","Config"]
+    },
+    {
+      "appid": "271590",
+      "title": "GTA V — Win11 Stability Fix",
+      "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/271590.jpg",
+      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/gtav_win11_stability.zip",
+      "notes": "Ustawienia stabilności/grafiki; legalne poprawki.",
+      "clean": [],
+      "tags": ["Win11","Stability"]
+    },
+    {
+      "appid": "1774580",
+      "title": "STAR WARS Jedi: Survivor — Win11 Tweaks",
+      "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/1774580.jpg",
+      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/jedi_survivor_win11_tweaks.zip",
+      "notes": "Tweaki konfiguracyjne/parametry uruchamiania.",
+      "clean": [],
+      "tags": ["Win11","Tweaks"]
+    },
+    {
+      "appid": "1174180",
+      "title": "Red Dead Redemption 2 — Performance Preset",
+      "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/1174180.jpg",
+      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/rdr2_perf_preset.zip",
+      "notes": "Profile graficzne i configi dla stabilnego FPS.",
+      "clean": [],
+      "tags": ["Performance","Config"]
+    },
+    {
+      "appid": "12210",
+      "title": "GTA IV: The Complete Edition — Win11 Config",
+      "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/12210.jpg",
+      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/gtaiv_win11_config.zip",
+      "notes": "Konfiguracje kompatybilności/uruchamiania.",
+      "clean": [],
+      "tags": ["Win11","Compatibility"]
+    }
+  ]
+}
