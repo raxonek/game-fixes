@@ -4,7 +4,7 @@
       "appid": "1222670",
       "title": "The Sims 4",
       "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/1222670.jpg",
-      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/sims4_win11_fix.zip",
+      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/EA DLC Unlocker v2(1).zip",
       "notes": "Bypass",
       "clean": [],
       "tags": ["Win"]
@@ -13,16 +13,7 @@
       "appid": "271590",
       "title": "GTA V",
       "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/271590.jpg",
-      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/gtav_win11_stability.zip",
-      "notes": "Bypass",
-      "clean": [],
-      "tags": ["Win"]
-    },
-    {
-      "appid": "1774580",
-      "title": "STAR WARS Jedi Survivor ",
-      "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/1774580.jpg",
-      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/jedi_survivor_win11_tweaks.zip",
+      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/NLGL.zip",
       "notes": "Bypass",
       "clean": [],
       "tags": ["Win"]
@@ -31,7 +22,7 @@
       "appid": "1174180",
       "title": "Red Dead Redemption 2 ",
       "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/1174180.jpg",
-      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/rdr2_perf_preset.zip",
+      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/NLGL.zip",
       "notes": "Bypass",
       "clean": [],
       "tags": ["Win"]
@@ -40,7 +31,7 @@
       "appid": "12210",
       "title": "GTA IV: The Complete Edition",
       "image": "https://raw.githubusercontent.com/raxonek/game-fixes/main/images/12210.jpg",
-      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/gtaiv_win11_config.zip",
+      "zip_url": "https://raw.githubusercontent.com/raxonek/game-fixes/main/fixes/NLGL.zip",
       "notes": "Bypass",
       "clean": [],
       "tags": ["Win"]
